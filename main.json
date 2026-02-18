@@ -1,6 +1,7 @@
 {
     "name": "Test",
     "author": "ObviousAlexC",
+    "version": "1.0.0",
     "files": [
         "extension.js"
     ],
