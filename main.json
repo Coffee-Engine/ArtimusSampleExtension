@@ -1,5 +1,6 @@
 {
     "name": "Test",
+    "id": "testExt",
     "author": "ObviousAlexC",
     "version": "1.0.0",
     "icon": "icon.png",
